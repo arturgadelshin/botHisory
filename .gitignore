@@ -1,0 +1,5 @@
+token.txt
+# If you are using PyCharm #
+.idea
+__pycache__/
+log.txt
